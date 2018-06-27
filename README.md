@@ -1,7 +1,7 @@
 # iOS Sample Code
 
 ## Index
-- <a href="">Rounded Button Edges</a>
+- <a href="https://github.com/theFlawlessHack/ios-sample-code/blob/master/README.md#rounded-button-edges">Rounded Button Edges</a>
 
 ## Rounded Button Edges
 Rounding the edges of a button occurs by referencing the button's layer and making modifications to the button's corner radius. The button can be referenced using an IBOutlet. In the example the button name can be replaced with the name of your button's name.<br><br>
