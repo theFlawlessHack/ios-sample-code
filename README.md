@@ -10,7 +10,7 @@ Typically, the button edge rounding will occur in the view did load function or 
 
 ```
 import UIKit
-@IBOutet weak var buttonName: UIButton!
+@IBOutlet weak var buttonName: UIButton!
 
 override func viewDidLoad() {
   super.viewDidLoad()
